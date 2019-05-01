@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="libft"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/School21/bitbucket/fillitnew/libft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libft">
+				<Option output="C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/libft.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/School21/bitbucket/fillitnew/libft/includes"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 libft"/>
+					<CompileFile command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libft/fast">
+				<Option output="C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/libft.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/School21/bitbucket/fillitnew/libft/includes"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 libft/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/School21/bitbucket/fillitnew/libft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/School21/bitbucket/fillitnew/libft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\School21\bitbucket\fillitnew\libft\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/includes/get_next_line.h">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/includes/libft.h">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/main.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_abs.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_atoi.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_bzero.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isalnum.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isalpha.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isascii.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isdigit.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isprint.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_isspace.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_itoa.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstadd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstcount.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstdel.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstdelone.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstfree.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstiter.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstmap.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstnew.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstpop.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstrm.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memalloc.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memccpy.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memchr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memcmp.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memcpy.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memdel.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memmove.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_memset.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_push_back.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putchar.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putchar_fd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putendl.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putendl_fd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putnbr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putnbr_fd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putstr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_putstr_fd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_realloc.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcat.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strchr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strclr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcmp.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcpy.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strdel.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strdup.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strequ.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_striter.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_striteri.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strjoin.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strlcat.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strlen.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strmap.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strmapi.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncat.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncmp.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncpy.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnequ.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnew.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnstr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strrchr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strsplit.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strstr.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strsub.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_strtrim.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_tolower.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_toupper.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecadd.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecdel.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecfree.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecnew.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecresize.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecshrink.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/ft_wordcount.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/srcs/get_next_line.c">
+			<Option target="libft"/>
+		</Unit>
+		<Unit filename="C:/School21/bitbucket/fillitnew/libft/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

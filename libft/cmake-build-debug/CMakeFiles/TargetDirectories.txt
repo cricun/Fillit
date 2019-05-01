@@ -1,0 +1,3 @@
+C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir
+C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/rebuild_cache.dir

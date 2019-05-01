@@ -1,0 +1,95 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "C:/School21/bitbucket/fillitnew/libft/main.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/main.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_abs.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_abs.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_atoi.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_atoi.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_bzero.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_bzero.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isalnum.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isalnum.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isalpha.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isalpha.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isascii.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isascii.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isdigit.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isdigit.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isprint.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isprint.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_isspace.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_isspace.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_itoa.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_itoa.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstadd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstadd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstcount.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstcount.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstdel.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstdel.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstdelone.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstdelone.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstfree.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstfree.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstiter.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstiter.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstmap.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstmap.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstnew.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstnew.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstpop.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstpop.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_lstrm.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_lstrm.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memalloc.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memalloc.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memccpy.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memccpy.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memchr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memchr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memcmp.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memcmp.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memcpy.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memcpy.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memdel.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memdel.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memmove.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memmove.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_memset.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_memset.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_push_back.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_push_back.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putchar.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putchar.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putchar_fd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putchar_fd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putendl.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putendl.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putendl_fd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putendl_fd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putnbr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putnbr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putnbr_fd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putnbr_fd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putstr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putstr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_putstr_fd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_putstr_fd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_realloc.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_realloc.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcat.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strcat.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strchr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strchr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strclr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strclr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcmp.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strcmp.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strcpy.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strcpy.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strdel.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strdel.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strdup.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strdup.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strequ.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strequ.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_striter.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_striter.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_striteri.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_striteri.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strjoin.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strjoin.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strlcat.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strlcat.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strlen.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strlen.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strmap.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strmap.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strmapi.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strmapi.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncat.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strncat.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncmp.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strncmp.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strncpy.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strncpy.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnequ.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strnequ.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnew.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strnew.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strnstr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strnstr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strrchr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strrchr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strsplit.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strsplit.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strstr.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strstr.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strsub.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strsub.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_strtrim.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_strtrim.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_tolower.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_tolower.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_toupper.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_toupper.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecadd.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecadd.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecdel.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecdel.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecfree.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecfree.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecnew.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecnew.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecresize.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecresize.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_vecshrink.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_vecshrink.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/ft_wordcount.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/ft_wordcount.obj"
+  "C:/School21/bitbucket/fillitnew/libft/srcs/get_next_line.c" "C:/School21/bitbucket/fillitnew/libft/cmake-build-debug/CMakeFiles/libft.dir/srcs/get_next_line.obj"
+  )
+set(CMAKE_C_COMPILER_ID "MSVC")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../includes"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
